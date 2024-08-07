@@ -1,4 +1,8 @@
 Microservice A - Achievement Sharing and Friend Service\
+Before you start anything, run createUserDB.py to initialize your database
+```
+    python createUserDB.py
+```
 In order to request data from the microservice you must first connect to the ZeroMQ socket, specifically "tcp://localhost:5555".\
 Example:
 ```
