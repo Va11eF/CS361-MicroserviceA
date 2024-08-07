@@ -61,4 +61,7 @@ Once the message has sent as specified above, your program will just have to wai
 ```
 The response variable will contain all the data sent from the microservice\
 \
+This is the UML Sequence Diagram that shows the process.
 \
+<img width="825" alt="image" src="https://github.com/user-attachments/assets/1005cb31-5025-432f-896f-17a6081a71a8">
+
